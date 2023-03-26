@@ -1,0 +1,154 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Marks",
+            "request": "launch",
+            "mainClass": "STUDENT.MANAGEMENT.SYSTEM.Marks",
+            "projectName": "student.management.system_a3a6844b"
+        },
+        {
+            "type": "java",
+            "name": "ExaminationDetails",
+            "request": "launch",
+            "mainClass": "STUDENT.MANAGEMENT.SYSTEM.ExaminationDetails",
+            "projectName": "student.management.system_a3a6844b"
+        },
+        {
+            "type": "java",
+            "name": "StudentFeeForm",
+            "request": "launch",
+            "mainClass": "STUDENT.MANAGEMENT.SYSTEM.StudentFeeForm",
+            "projectName": "student.management.system_a3a6844b"
+        },
+        {
+            "type": "java",
+            "name": "About",
+            "request": "launch",
+            "mainClass": "STUDENT.MANAGEMENT.SYSTEM.About",
+            "projectName": "student.management.system_a3a6844b"
+        },
+        {
+            "type": "java",
+            "name": "FeeStructure",
+            "request": "launch",
+            "mainClass": "STUDENT.MANAGEMENT.SYSTEM.FeeStructure",
+            "projectName": "student.management.system_a3a6844b"
+        },
+        {
+            "type": "java",
+            "name": "ExamResult",
+            "request": "launch",
+            "mainClass": "STUDENT.MANAGEMENT.SYSTEM.ExamResult",
+            "projectName": "student.management.system_a3a6844b"
+        },
+        {
+            "type": "java",
+            "name": "EnterMarks",
+            "request": "launch",
+            "mainClass": "STUDENT.MANAGEMENT.SYSTEM.EnterMarks",
+            "projectName": "student.management.system_a3a6844b"
+        },
+        {
+            "type": "java",
+            "name": "UpdateTeacherDetails",
+            "request": "launch",
+            "mainClass": "STUDENT.MANAGEMENT.SYSTEM.UpdateTeacherDetails",
+            "projectName": "student.management.system_a3a6844b"
+        },
+        {
+            "type": "java",
+            "name": "UpdateStudentDetails",
+            "request": "launch",
+            "mainClass": "STUDENT.MANAGEMENT.SYSTEM.UpdateStudentDetails",
+            "projectName": "student.management.system_a3a6844b"
+        },
+        {
+            "type": "java",
+            "name": "TeacherLeaveDetails",
+            "request": "launch",
+            "mainClass": "STUDENT.MANAGEMENT.SYSTEM.TeacherLeaveDetails",
+            "projectName": "student.management.system_a3a6844b"
+        },
+        {
+            "type": "java",
+            "name": "StudentLeaveDetails",
+            "request": "launch",
+            "mainClass": "STUDENT.MANAGEMENT.SYSTEM.StudentLeaveDetails",
+            "projectName": "student.management.system_a3a6844b"
+        },
+        {
+            "type": "java",
+            "name": "TeacherLeave",
+            "request": "launch",
+            "mainClass": "STUDENT.MANAGEMENT.SYSTEM.TeacherLeave",
+            "projectName": "student.management.system_a3a6844b"
+        },
+        {
+            "type": "java",
+            "name": "StudentLeave",
+            "request": "launch",
+            "mainClass": "STUDENT.MANAGEMENT.SYSTEM.StudentLeave",
+            "projectName": "student.management.system_a3a6844b"
+        },
+        {
+            "type": "java",
+            "name": "TeacherDetails",
+            "request": "launch",
+            "mainClass": "STUDENT.MANAGEMENT.SYSTEM.TeacherDetails",
+            "projectName": "student.management.system_a3a6844b"
+        },
+        {
+            "type": "java",
+            "name": "StudentDetails",
+            "request": "launch",
+            "mainClass": "STUDENT.MANAGEMENT.SYSTEM.StudentDetails",
+            "projectName": "student.management.system_a3a6844b"
+        },
+        {
+            "type": "java",
+            "name": "addTeacher",
+            "request": "launch",
+            "mainClass": "STUDENT.MANAGEMENT.SYSTEM.addTeacher",
+            "projectName": "student.management.system_a3a6844b"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Login",
+            "request": "launch",
+            "mainClass": "STUDENT.MANAGEMENT.SYSTEM.Login",
+            "projectName": "student.management.system_a3a6844b"
+        },
+        {
+            "type": "java",
+            "name": "Project",
+            "request": "launch",
+            "mainClass": "STUDENT.MANAGEMENT.SYSTEM.Project",
+            "projectName": "student.management.system_a3a6844b"
+        },
+        {
+            "type": "java",
+            "name": "Splash",
+            "request": "launch",
+            "mainClass": "STUDENT.MANAGEMENT.SYSTEM.Splash",
+            "projectName": "student.management.system_a3a6844b"
+        },
+        {
+            "type": "java",
+            "name": "addStudent",
+            "request": "launch",
+            "mainClass": "STUDENT.MANAGEMENT.SYSTEM.addStudent",
+            "projectName": "student.management.system_a3a6844b"
+        }
+    ]
+}
